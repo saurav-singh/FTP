@@ -1,4 +1,4 @@
-# FTP
+# FTP (rfc 959)
 
 # Server
 python ftp_server.py [port] [logfile]
