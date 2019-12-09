@@ -1,13 +1,7 @@
 import datetime
 
 '''
-Saurav Singh
-CS472 - Computer Networks
-Homework #2
-clientFTP.py
-
-This program is a logger to log messages 
-received and sent by the FTPclient 
+Logger for FTP client and server. 
 '''
 
 # ------------------------------------------------------------------------------------------
